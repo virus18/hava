@@ -204,7 +204,7 @@ light:
     name: None
     disabled_by_default: true
     entity_category: config
-    pin: GPIO36
+    pin: GPIO11
     default_transition_length: 0s
     chipset: SK6812
     num_leds: 1
