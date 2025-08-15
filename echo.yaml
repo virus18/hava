@@ -39,7 +39,7 @@ i2s_audio:
 microphone:
   - platform: i2s_audio
     id: echo_microphone
-    i2s_din_pin: GPIO13
+    i2s_din_pin: GPIO4
     adc_type: external
     pdm: true
     sample_rate: 16000
