@@ -204,9 +204,9 @@ light:
     name: None
     disabled_by_default: true
     entity_category: config
-    pin: GPIO11
+    pin: GPIO48
     default_transition_length: 0s
-    chipset: SK6812
+    chipset: ws2812
     num_leds: 1
     rgb_order: grb
     effects:
